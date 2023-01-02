@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mehrab-hossain-ba59941b9" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15373412/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https/users/15373412/mehrab-hossain" height="30" width="40" /></a>
 <a href="https://fb.com/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mehrab hossain" height="30" width="40" /></a>
-<a href="https://instagram.com/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mh_mahrab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +27,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Mehrab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mehrab" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=98-mehrab&show_icons=true&locale=en&layout=compact" alt="98-mehrab" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=98-mehrab&show_icons=true&locale=en" alt="98-mehrab" /></p>
