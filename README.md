@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mehrabhossain98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehrabhossain98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehrab-hossain-ba59941b9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mehrab-hossain-ba59941b9" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https/users/15373412/mehrab-hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https/users/15373412/mehrab-hossain" height="30" width="40" /></a>
-<a href="https://fb.com/mehrab hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mehrab hossain" height="30" width="40" /></a>
-<a href="https://instagram.com/mh_mahrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mh_mahrab" height="30" width="40" /></a>
+<a href="https://twitter.com/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehrabhossain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mehrab-hossain-ba59941b9" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https/users/15373412/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https/users/15373412/mehrab-hossain" height="30" width="40" /></a>
+<a href="https://fb.com/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mehrab hossain" height="30" width="40" /></a>
+<a href="https://instagram.com/007mehrab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mh_mahrab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
